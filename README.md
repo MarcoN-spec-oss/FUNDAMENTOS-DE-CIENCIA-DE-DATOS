@@ -1,2 +1,0 @@
-# FUNDAMENTOS-DE-CIENCIA-DE-DATOS
-proyecto en grupo
